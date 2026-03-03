@@ -1,0 +1,8 @@
+{
+  "name": "icecash-db-guide",
+  "description": "Database guide for ICEcash MSSQL and MySQL MCP servers. Provides intelligent routing, safety guardrails, and domain knowledge for querying Concerto_Zim (MSSQL) and icecash log databases (MySQL).",
+  "version": "1.0.0",
+  "author": {
+    "name": "ICEcash"
+  }
+}
