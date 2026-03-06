@@ -1,0 +1,15 @@
+{
+  "name": "icecash-marketplace",
+  "description": "ICEcash Claude Code plugins",
+  "owner": {
+    "name": "ICEcash"
+  },
+  "plugins": [
+    {
+      "name": "icecash-db-guide",
+      "source": "./icecash-db-guide",
+      "description": "Database guide for ICEcash MSSQL and MySQL MCP servers",
+      "version": "1.0.0"
+    }
+  ]
+}
